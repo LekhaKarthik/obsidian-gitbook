@@ -1,0 +1,15 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "origin"]
+	url = https://github.com/LekhaKarthik/SecondBrain
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[gc]
+	auto = 0
+[http "https://github.com/"]
+	extraheader = AUTHORIZATION: basic eC1hY2Nlc3MtdG9rZW46Z2hwX09NcUZpb3cxS2o5WEdYTlJUSHJtRzljbnNac3lxRTFJUXZYRg==
+[branch "main"]
+	remote = origin
+	merge = refs/heads/main
