@@ -56,7 +56,6 @@
 
         * [39](git/objects/39/README.md)
             * [48772fa70222c27c20c84c050041e4ccad9c57](git/objects/39/48772fa70222c27c20c84c050041e4ccad9c57)
-            * [f2168afb8f6bdb1b0793a46ef0c59a13cefd04](git/objects/39/f2168afb8f6bdb1b0793a46ef0c59a13cefd04)
 
         * [40](git/objects/40/README.md)
             * [ff2f6e6204daf4cad3beb297e5e3b15c0f8335](git/objects/40/ff2f6e6204daf4cad3beb297e5e3b15c0f8335)
@@ -110,6 +109,9 @@
         * [94](git/objects/94/README.md)
             * [05bfdc224d3e5dfe9fe6116a4fd2955ab10a72](git/objects/94/05bfdc224d3e5dfe9fe6116a4fd2955ab10a72)
 
+        * [97](git/objects/97/README.md)
+            * [792b8eb7ff0f07ed10559394b843a67eba29d1](git/objects/97/792b8eb7ff0f07ed10559394b843a67eba29d1)
+
         * [99](git/objects/99/README.md)
             * [aacb1f88bc90a4635ea4bb70b730e380f47904](git/objects/99/aacb1f88bc90a4635ea4bb70b730e380f47904)
 
@@ -146,7 +148,6 @@
             * [1e4739d2f50b85346780557da3b4fea59d2067](git/objects/3c/1e4739d2f50b85346780557da3b4fea59d2067)
 
         * [3d](git/objects/3d/README.md)
-            * [ecfbb858f72a7e013f70caac94cb2c536ce02c](git/objects/3d/ecfbb858f72a7e013f70caac94cb2c536ce02c)
             * [f4e4427b9d8a5c7bbdeba9dd6419368ce08072](git/objects/3d/f4e4427b9d8a5c7bbdeba9dd6419368ce08072)
 
         * [3e](git/objects/3e/README.md)
@@ -203,10 +204,12 @@
 
         * [ab](git/objects/ab/README.md)
             * [a06bdc1d8436a27d3ac5841453cc6811953bc7](git/objects/ab/a06bdc1d8436a27d3ac5841453cc6811953bc7)
-            * [c76b7e1ff1b13058f978baf6926085f6d85dfa](git/objects/ab/c76b7e1ff1b13058f978baf6926085f6d85dfa)
 
         * [ac](git/objects/ac/README.md)
             * [19a0a2079d2c99c6d00033305b9091ab0bda92](git/objects/ac/19a0a2079d2c99c6d00033305b9091ab0bda92)
+
+        * [ad](git/objects/ad/README.md)
+            * [d5c0188289b4968c5d9260d5242868d82c91e7](git/objects/ad/d5c0188289b4968c5d9260d5242868d82c91e7)
 
         * [b1](git/objects/b1/README.md)
             * [60f3b1fe565f61d03d512fb47eb94645db1a7c](git/objects/b1/60f3b1fe565f61d03d512fb47eb94645db1a7c)
@@ -224,10 +227,12 @@
         * [bb](git/objects/bb/README.md)
             * [c5844f911dfb306355b6fa398c360d80edf93d](git/objects/bb/c5844f911dfb306355b6fa398c360d80edf93d)
 
+        * [c0](git/objects/c0/README.md)
+            * [d512133e2684d3605c6344aa042aeda92a63e2](git/objects/c0/d512133e2684d3605c6344aa042aeda92a63e2)
+
         * [c1](git/objects/c1/README.md)
             * [477c6dcbe13bb044754b9fb08a4dd6decd1f49](git/objects/c1/477c6dcbe13bb044754b9fb08a4dd6decd1f49)
             * [d50654c5a1de3c41a42ffdd3ce744db754ed37](git/objects/c1/d50654c5a1de3c41a42ffdd3ce744db754ed37)
-            * [ef6f98fc6ad9959f4356c14700c29e8ad67cb1](git/objects/c1/ef6f98fc6ad9959f4356c14700c29e8ad67cb1)
 
         * [c8](git/objects/c8/README.md)
             * [c365d89b8b1bad158cba37051fc32cbc784c65](git/objects/c8/c365d89b8b1bad158cba37051fc32cbc784c65)
@@ -235,14 +240,14 @@
         * [cf](git/objects/cf/README.md)
             * [0fc7b7fdd2fe6432a384128ca99046bfd14244](git/objects/cf/0fc7b7fdd2fe6432a384128ca99046bfd14244)
 
+        * [d2](git/objects/d2/README.md)
+            * [4f5e426de8ef976041c97ea43b828174be161a](git/objects/d2/4f5e426de8ef976041c97ea43b828174be161a)
+
         * [d3](git/objects/d3/README.md)
             * [3492526fc96ee8cfe1d6cf5280f81e279a3329](git/objects/d3/3492526fc96ee8cfe1d6cf5280f81e279a3329)
 
         * [da](git/objects/da/README.md)
             * [4b91e4bdd275ef6094f2b0d48ad887efa96193](git/objects/da/4b91e4bdd275ef6094f2b0d48ad887efa96193)
-
-        * [db](git/objects/db/README.md)
-            * [4912cc7abfbc362508a7f2eda0c09c37be30c2](git/objects/db/4912cc7abfbc362508a7f2eda0c09c37be30c2)
 
         * [dc](git/objects/dc/README.md)
             * [7075265afdd17c8ebe0bc14e4d0e9943d32654](git/objects/dc/7075265afdd17c8ebe0bc14e4d0e9943d32654)
@@ -280,6 +285,9 @@
 
         * [f8](git/objects/f8/README.md)
             * [f247e2b039896050e8c5c476e3e5537352c849](git/objects/f8/f247e2b039896050e8c5c476e3e5537352c849)
+
+        * [fa](git/objects/fa/README.md)
+            * [e814c070d37d6b3307c7293482ea07f7195237](git/objects/fa/e814c070d37d6b3307c7293482ea07f7195237)
 
         * [fc](git/objects/fc/README.md)
             * [850ac70e74f77e7c2f5a45edc373d29da3c81c](git/objects/fc/850ac70e74f77e7c2f5a45edc373d29da3c81c)
@@ -397,6 +405,7 @@
     * [23-02-2024](daily-journal/23022024.md)
     * [26-02-2024](daily-journal/26022024.md)
     * [28-02-2024](daily-journal/28022024.md)
+    * [28-03-2024](daily-journal/28032024.md)
 
 * [Excalidraw](excalidraw/README.md)
     * [Drawing 2024-02-28 22.53.15.excalidraw](excalidraw/drawing-20240228-22.53.15.excalidraw.md)
