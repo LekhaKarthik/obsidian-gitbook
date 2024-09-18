@@ -1,0 +1,5 @@
+- A computer, then, is any machine that performs a computation by executing a defined sequence of operations, known as an **algorithm**
+- It may optionally generate some kind of result at the end.
+- The particular state of the machine at any given moment indicates the state of the computation.
+- A computer is something that takes a list of operations and converts them into some kind of observable form.
+	- Imagine that a computer takes a _verb_ (the instruction) and converts it into an _object_ (the state) that represents the outcome of that instruction. The next instruction is then executed against the object, generating a new object that forms the input for the next instruction and so on. Far out!
