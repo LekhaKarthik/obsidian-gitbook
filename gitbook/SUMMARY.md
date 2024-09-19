@@ -39,9 +39,9 @@
         * [info](git/objects/info/README.md)
 
         * [pack](git/objects/pack/README.md)
-            * [pack-41abde7fd120b99121750ffcdfec8d0ee95c77dc.idx](git/objects/pack/pack41abde7fd120b99121750ffcdfec8d0ee95c77dc.idx)
-            * [pack-41abde7fd120b99121750ffcdfec8d0ee95c77dc.pack](git/objects/pack/pack41abde7fd120b99121750ffcdfec8d0ee95c77dc.pack)
-            * [pack-41abde7fd120b99121750ffcdfec8d0ee95c77dc.rev](git/objects/pack/pack41abde7fd120b99121750ffcdfec8d0ee95c77dc.rev)
+            * [pack-26b21168c061770bf3cd2440e5cd6f61de7d17ea.idx](git/objects/pack/pack26b21168c061770bf3cd2440e5cd6f61de7d17ea.idx)
+            * [pack-26b21168c061770bf3cd2440e5cd6f61de7d17ea.pack](git/objects/pack/pack26b21168c061770bf3cd2440e5cd6f61de7d17ea.pack)
+            * [pack-26b21168c061770bf3cd2440e5cd6f61de7d17ea.rev](git/objects/pack/pack26b21168c061770bf3cd2440e5cd6f61de7d17ea.rev)
 
 
     * [refs](git/refs/README.md)
@@ -187,6 +187,9 @@
     * [Screenshot 2024-04-05 at 6.59.01 PM.png](attachments/screenshot-20240405-at-6.59.01-pm.png)
     * [Screenshot 2024-04-05 at 7.00.43 PM.png](attachments/screenshot-20240405-at-7.00.43-pm.png)
     * [Screenshot 2024-04-05 at 8.13.41 PM.png](attachments/screenshot-20240405-at-8.13.41-pm.png)
+    * [Screenshot 2024-09-18 at 10.45.01 PM.png](attachments/screenshot-20240918-at-10.45.01-pm.png)
+    * [Screenshot 2024-09-18 at 11.42.48 PM.png](attachments/screenshot-20240918-at-11.42.48-pm.png)
+    * [Screenshot 2024-09-18 at 11.46.13 PM.png](attachments/screenshot-20240918-at-11.46.13-pm.png)
 
 * [Daily Journal](daily-journal/README.md)
     * [02-03-2024](daily-journal/02032024.md)
