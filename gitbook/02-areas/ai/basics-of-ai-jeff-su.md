@@ -38,4 +38,5 @@ RESOURCES MENTIONED
 
 - Option 1 - Generic Prompt ![[Screenshot 2024-09-18 at 11.42.48 PM.png]]
 - Option 2 - Chain-of-thought Prompt![[Screenshot 2024-09-18 at 11.46.13 PM.png]]
-- 
+
+### Takeaway 5 - Limitations of AI

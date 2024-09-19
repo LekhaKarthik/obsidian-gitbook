@@ -39,9 +39,9 @@
         * [info](git/objects/info/README.md)
 
         * [pack](git/objects/pack/README.md)
-            * [pack-26b21168c061770bf3cd2440e5cd6f61de7d17ea.idx](git/objects/pack/pack26b21168c061770bf3cd2440e5cd6f61de7d17ea.idx)
-            * [pack-26b21168c061770bf3cd2440e5cd6f61de7d17ea.pack](git/objects/pack/pack26b21168c061770bf3cd2440e5cd6f61de7d17ea.pack)
-            * [pack-26b21168c061770bf3cd2440e5cd6f61de7d17ea.rev](git/objects/pack/pack26b21168c061770bf3cd2440e5cd6f61de7d17ea.rev)
+            * [pack-6c739f25ac0ec9303f03a9d52dca09cc016019cf.idx](git/objects/pack/pack6c739f25ac0ec9303f03a9d52dca09cc016019cf.idx)
+            * [pack-6c739f25ac0ec9303f03a9d52dca09cc016019cf.pack](git/objects/pack/pack6c739f25ac0ec9303f03a9d52dca09cc016019cf.pack)
+            * [pack-6c739f25ac0ec9303f03a9d52dca09cc016019cf.rev](git/objects/pack/pack6c739f25ac0ec9303f03a9d52dca09cc016019cf.rev)
 
 
     * [refs](git/refs/README.md)
@@ -90,6 +90,7 @@
 
     * [Books](02-areas/books/README.md)
         * [Non-Fictional](02-areas/books/nonfictional/README.md)
+            * [What to Expect When You're Expecting](02-areas/books/nonfictional/what-to-expect-when-youre-expecting.md)
             * [You Can Negotiate Anything](02-areas/books/nonfictional/you-can-negotiate-anything.md)
 
 
