@@ -39,9 +39,9 @@
         * [info](git/objects/info/README.md)
 
         * [pack](git/objects/pack/README.md)
-            * [pack-6c739f25ac0ec9303f03a9d52dca09cc016019cf.idx](git/objects/pack/pack6c739f25ac0ec9303f03a9d52dca09cc016019cf.idx)
-            * [pack-6c739f25ac0ec9303f03a9d52dca09cc016019cf.pack](git/objects/pack/pack6c739f25ac0ec9303f03a9d52dca09cc016019cf.pack)
-            * [pack-6c739f25ac0ec9303f03a9d52dca09cc016019cf.rev](git/objects/pack/pack6c739f25ac0ec9303f03a9d52dca09cc016019cf.rev)
+            * [pack-bc6ed8aa99ea58230a83c9f246495462213b64c5.idx](git/objects/pack/packbc6ed8aa99ea58230a83c9f246495462213b64c5.idx)
+            * [pack-bc6ed8aa99ea58230a83c9f246495462213b64c5.pack](git/objects/pack/packbc6ed8aa99ea58230a83c9f246495462213b64c5.pack)
+            * [pack-bc6ed8aa99ea58230a83c9f246495462213b64c5.rev](git/objects/pack/packbc6ed8aa99ea58230a83c9f246495462213b64c5.rev)
 
 
     * [refs](git/refs/README.md)
@@ -70,7 +70,17 @@
     * [.DS_Store](github/.dsstore)
 
 * [01 Projects](01-projects/README.md)
+    * [AuthIdentity](01-projects/authidentity/README.md)
+        * [SFACDPI-647 - Data Mismatch](01-projects/authidentity/sfacdpi647-data-mismatch/README.md)
+            * [Brain Dump from Ankush](01-projects/authidentity/sfacdpi647-data-mismatch/brain-dump-from-ankush.md)
+            * [Important Links](01-projects/authidentity/sfacdpi647-data-mismatch/important-links.md)
+            * [Investigation RCA of Mismatch between Auth User Table and CCDS](01-projects/authidentity/sfacdpi647-data-mismatch/investigation-rca-of-mismatch-between-auth-user-table-and-ccds.md)
+
+
     * [Bulk Lock Service](01-projects/bulk-lock-service/README.md)
+        * [SFACDPI-727 - Infohub documentation](01-projects/bulk-lock-service/sfacdpi727-infohub-documentation/README.md)
+            * [Bulk Lock Tool](01-projects/bulk-lock-service/sfacdpi727-infohub-documentation/bulk-lock-tool.md)
+
         * [Bulk Lock Service](01-projects/bulk-lock-service/bulk-lock-service.md)
 
     * [Onboarding](01-projects/onboarding/README.md)
@@ -87,6 +97,11 @@
 * [02 Areas](02-areas/README.md)
     * [AI](02-areas/ai/README.md)
         * [Basics of AI - Jeff Su](02-areas/ai/basics-of-ai-jeff-su.md)
+
+    * [Backend Development](02-areas/backend-development/README.md)
+        * [Internet](02-areas/backend-development/internet/README.md)
+            * [What is Internet?](02-areas/backend-development/internet/what-is-internet.md)
+
 
     * [Books](02-areas/books/README.md)
         * [Non-Fictional](02-areas/books/nonfictional/README.md)
@@ -146,6 +161,11 @@
             * [Books](02-areas/lld/sudocode/books.md)
 
 
+    * [Personal Health](02-areas/personal-health/README.md)
+        * [Pregnancy](02-areas/personal-health/pregnancy/README.md)
+            * [Garbh Sanskar](02-areas/personal-health/pregnancy/garbh-sanskar.md)
+
+
     * [Professional Programming](02-areas/professional-programming/README.md)
         * [Books](02-areas/professional-programming/books/README.md)
             * [The Computer Science Book](02-areas/professional-programming/books/the-computer-science-book/README.md)
@@ -162,6 +182,7 @@
     * [.DS_Store](02-areas/.dsstore)
 
 * [Attachments](attachments/README.md)
+    * [Pasted image 20240927184200.png](attachments/pasted-image-20240927184200.png)
     * [Screenshot 2024-03-05 at 9.05.38 PM.png](attachments/screenshot-20240305-at-9.05.38-pm.png)
     * [Screenshot 2024-03-05 at 9.06.07 PM.png](attachments/screenshot-20240305-at-9.06.07-pm.png)
     * [Screenshot 2024-03-06 at 2.09.14 AM.png](attachments/screenshot-20240306-at-2.09.14-am.png)
@@ -197,6 +218,7 @@
     * [04-03-2024](daily-journal/04032024.md)
     * [17-03-2024](daily-journal/17032024.md)
     * [18-09-2024](daily-journal/18092024.md)
+    * [19-09-2024](daily-journal/19092024.md)
     * [2024-01-04](daily-journal/20240104.md)
     * [2024-03-27](daily-journal/20240327.md)
     * [2024-03-28](daily-journal/20240328.md)
