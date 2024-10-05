@@ -1,5 +1,3 @@
-# How to Be the Main Character of Your Life
-
 ## 1. Live with Purpose
 - To live with purpose is to engage in intentional living.
 - This doesn’t mean drastically changing your lifestyle, but putting your priorities into action.
@@ -7,15 +5,15 @@
   - If travel is a priority, start a travel fund, look for ways to save, or research cheap travel options.
 - Focus on what you want, and don't be afraid to go after it.
 - **Resources:**
-  1. [How to Find Your Purpose in Life](#)
-  2. [How to Live Intentionally](#)
+  1. [How to Find Your Purpose in Life](https://outofthehabit.com/how-to-find-your-purpose-in-life/)
+  2. [How to Live Intentionally](https://outofthehabit.com/how-to-simplify-your-life-live-intentionally/)
 
 ## 2. Set Boundaries
 - Developing confidence in setting boundaries is crucial.
 - Understand what's important to you and remove things or people that don't support your goals.
 - While it’s not necessary to leave every difficult situation, don’t be afraid to insist on being treated well.
 - If someone can't respect your boundaries, it might be time to walk away.
-- **For more information on setting boundaries:** [Click here](#)
+- For more information on setting boundaries: [Click here](https://outofthehabit.com/how-to-set-boundaries-in-a-healthy-way/)
 
 ## 3. Be an Enthusiast
 - **Quote by Roald Dahl:** 
