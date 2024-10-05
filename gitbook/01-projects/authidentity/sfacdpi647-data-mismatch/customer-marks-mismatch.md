@@ -24,7 +24,7 @@ CUID: 3723714451
 	"email_address": "Sangior@optonline.net",
 }
 ```
-#### Data in DB for CUID 3723714451
+#### Data in DB for CUID customer
 ##### CCDS:
 ```
 {
@@ -49,6 +49,8 @@ CUID: 6105875357
 	"email": "mark@oceansgroup.ca",
 	"shard": 7,
 	"firstName": "Mark",
+	"creationDate": "2019-12-25 13:51:24.727",
+	"updatedDate": "2024-09-27 13:10:59.35",
 	"identitySubjectId": "133690145",
 }
 ```
@@ -69,6 +71,8 @@ CUID: 6105875357
 	"email": "markamantel@gmail.com",
 	"shard": 7,
 	"firstName": "Mark",
+	"creationDate": "2024-07-10 00:40:39.403",
+	"updatedDate": "2024-09-13 14:14:04.947",
 	"identitySubjectId": "282392068",
 }
 ```

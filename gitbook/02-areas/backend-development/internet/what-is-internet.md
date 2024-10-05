@@ -1,4 +1,5 @@
 https://roadmap.sh/guides/what-is-internet
+https://www.geeksforgeeks.org/how-does-the-internet-work/
 
 ## Key Highlights:
 - Two core components of the Internet: **Packets** and **Protocols**.

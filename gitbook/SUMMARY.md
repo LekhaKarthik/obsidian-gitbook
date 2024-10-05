@@ -39,9 +39,9 @@
         * [info](git/objects/info/README.md)
 
         * [pack](git/objects/pack/README.md)
-            * [pack-9aa7e83079ca8c6d3b5c5347650775e61fca5c17.idx](git/objects/pack/pack9aa7e83079ca8c6d3b5c5347650775e61fca5c17.idx)
-            * [pack-9aa7e83079ca8c6d3b5c5347650775e61fca5c17.pack](git/objects/pack/pack9aa7e83079ca8c6d3b5c5347650775e61fca5c17.pack)
-            * [pack-9aa7e83079ca8c6d3b5c5347650775e61fca5c17.rev](git/objects/pack/pack9aa7e83079ca8c6d3b5c5347650775e61fca5c17.rev)
+            * [pack-fd587603f4cb85b320957d719646e876c020f049.idx](git/objects/pack/packfd587603f4cb85b320957d719646e876c020f049.idx)
+            * [pack-fd587603f4cb85b320957d719646e876c020f049.pack](git/objects/pack/packfd587603f4cb85b320957d719646e876c020f049.pack)
+            * [pack-fd587603f4cb85b320957d719646e876c020f049.rev](git/objects/pack/packfd587603f4cb85b320957d719646e876c020f049.rev)
 
 
     * [refs](git/refs/README.md)
@@ -162,9 +162,14 @@
             * [Books](02-areas/lld/sudocode/books.md)
 
 
-    * [Personal Health](02-areas/personal-health/README.md)
-        * [Pregnancy](02-areas/personal-health/pregnancy/README.md)
-            * [Garbh Sanskar](02-areas/personal-health/pregnancy/garbh-sanskar.md)
+    * [Personal](02-areas/personal/README.md)
+        * [Health](02-areas/personal/health/README.md)
+            * [Pregnancy](02-areas/personal/health/pregnancy/README.md)
+                * [Garbh Sanskar](02-areas/personal/health/pregnancy/garbh-sanskar.md)
+
+
+        * [Life](02-areas/personal/life/README.md)
+            * [How to Be the Main character of your life](02-areas/personal/life/how-to-be-the-main-character-of-your-life.md)
 
 
     * [Professional Programming](02-areas/professional-programming/README.md)
@@ -217,6 +222,7 @@
 * [Daily Journal](daily-journal/README.md)
     * [02-03-2024](daily-journal/02032024.md)
     * [04-03-2024](daily-journal/04032024.md)
+    * [05-10-2024](daily-journal/05102024.md)
     * [17-03-2024](daily-journal/17032024.md)
     * [18-09-2024](daily-journal/18092024.md)
     * [19-09-2024](daily-journal/19092024.md)
