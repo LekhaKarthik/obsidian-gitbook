@@ -39,9 +39,9 @@
         * [info](git/objects/info/README.md)
 
         * [pack](git/objects/pack/README.md)
-            * [pack-c93f8c98768daf2b85ff73b13ac5ad629e8087e8.idx](git/objects/pack/packc93f8c98768daf2b85ff73b13ac5ad629e8087e8.idx)
-            * [pack-c93f8c98768daf2b85ff73b13ac5ad629e8087e8.pack](git/objects/pack/packc93f8c98768daf2b85ff73b13ac5ad629e8087e8.pack)
-            * [pack-c93f8c98768daf2b85ff73b13ac5ad629e8087e8.rev](git/objects/pack/packc93f8c98768daf2b85ff73b13ac5ad629e8087e8.rev)
+            * [pack-03d860f78647f4b26ac299823d9b3631f34afb3f.idx](git/objects/pack/pack03d860f78647f4b26ac299823d9b3631f34afb3f.idx)
+            * [pack-03d860f78647f4b26ac299823d9b3631f34afb3f.pack](git/objects/pack/pack03d860f78647f4b26ac299823d9b3631f34afb3f.pack)
+            * [pack-03d860f78647f4b26ac299823d9b3631f34afb3f.rev](git/objects/pack/pack03d860f78647f4b26ac299823d9b3631f34afb3f.rev)
 
 
     * [refs](git/refs/README.md)
@@ -106,6 +106,27 @@
 
     * [Books](02-areas/books/README.md)
         * [Non-Fictional](02-areas/books/nonfictional/README.md)
+            * [The Software Engineer's Guidebook](02-areas/books/nonfictional/the-software-engineers-guidebook/README.md)
+                * [Part 1 - Developer Career Fundamentals](02-areas/books/nonfictional/the-software-engineers-guidebook/part-1-developer-career-fundamentals/README.md)
+                    * [Career Paths](02-areas/books/nonfictional/the-software-engineers-guidebook/part-1-developer-career-fundamentals/career-paths/README.md)
+                        * [Alternative ways to think about career progress](02-areas/books/nonfictional/the-software-engineers-guidebook/part-1-developer-career-fundamentals/career-paths/alternative-ways-to-think-about-career-progress.md)
+                        * [Career Paths](02-areas/books/nonfictional/the-software-engineers-guidebook/part-1-developer-career-fundamentals/career-paths/career-paths.md)
+                        * [Comp and Tiers of companies](02-areas/books/nonfictional/the-software-engineers-guidebook/part-1-developer-career-fundamentals/career-paths/comp-and-tiers-of-companies.md)
+                        * [Cost centers, Profit Centers](02-areas/books/nonfictional/the-software-engineers-guidebook/part-1-developer-career-fundamentals/career-paths/cost-centers-profit-centers.md)
+                        * [Types of Tech Companies](02-areas/books/nonfictional/the-software-engineers-guidebook/part-1-developer-career-fundamentals/career-paths/types-of-tech-companies.md)
+                        * [Typical software engineering career paths](02-areas/books/nonfictional/the-software-engineers-guidebook/part-1-developer-career-fundamentals/career-paths/typical-software-engineering-career-paths.md)
+
+                    * [Owning Your Career](02-areas/books/nonfictional/the-software-engineers-guidebook/part-1-developer-career-fundamentals/owning-your-career/README.md)
+                        * [Ask for feedback](02-areas/books/nonfictional/the-software-engineers-guidebook/part-1-developer-career-fundamentals/owning-your-career/ask-for-feedback.md)
+                        * [Being seen as someone who "gets things done"](02-areas/books/nonfictional/the-software-engineers-guidebook/part-1-developer-career-fundamentals/owning-your-career/being-seen-as-someone-who-gets-things-done.md)
+                        * [Keep a work log](02-areas/books/nonfictional/the-software-engineers-guidebook/part-1-developer-career-fundamentals/owning-your-career/keep-a-work-log.md)
+                        * [Make your manager an ally](02-areas/books/nonfictional/the-software-engineers-guidebook/part-1-developer-career-fundamentals/owning-your-career/make-your-manager-an-ally.md)
+                        * [Owning Your Career](02-areas/books/nonfictional/the-software-engineers-guidebook/part-1-developer-career-fundamentals/owning-your-career/owning-your-career.md)
+                        * [Pace yourself](02-areas/books/nonfictional/the-software-engineers-guidebook/part-1-developer-career-fundamentals/owning-your-career/pace-yourself.md)
+                        * [You're in charge of your career](02-areas/books/nonfictional/the-software-engineers-guidebook/part-1-developer-career-fundamentals/owning-your-career/youre-in-charge-of-your-career.md)
+
+
+
             * [What to Expect When You're Expecting](02-areas/books/nonfictional/what-to-expect-when-youre-expecting.md)
             * [You Can Negotiate Anything](02-areas/books/nonfictional/you-can-negotiate-anything.md)
 
@@ -169,6 +190,7 @@
 
 
         * [Life](02-areas/personal/life/README.md)
+            * [50 advice to follow in 20s](02-areas/personal/life/50-advice-to-follow-in-20s.md)
             * [How to Be the Main character of your life](02-areas/personal/life/how-to-be-the-main-character-of-your-life.md)
 
 
@@ -223,6 +245,8 @@
     * [02-03-2024](daily-journal/02032024.md)
     * [04-03-2024](daily-journal/04032024.md)
     * [05-10-2024](daily-journal/05102024.md)
+    * [08-10-2024](daily-journal/08102024.md)
+    * [11-10-2024](daily-journal/11102024.md)
     * [17-03-2024](daily-journal/17032024.md)
     * [18-09-2024](daily-journal/18092024.md)
     * [19-09-2024](daily-journal/19092024.md)
