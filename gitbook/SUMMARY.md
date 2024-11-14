@@ -39,9 +39,9 @@
         * [info](git/objects/info/README.md)
 
         * [pack](git/objects/pack/README.md)
-            * [pack-046fc3043b1eb5fc47af2c4de129e6a8a98ac34e.idx](git/objects/pack/pack046fc3043b1eb5fc47af2c4de129e6a8a98ac34e.idx)
-            * [pack-046fc3043b1eb5fc47af2c4de129e6a8a98ac34e.pack](git/objects/pack/pack046fc3043b1eb5fc47af2c4de129e6a8a98ac34e.pack)
-            * [pack-046fc3043b1eb5fc47af2c4de129e6a8a98ac34e.rev](git/objects/pack/pack046fc3043b1eb5fc47af2c4de129e6a8a98ac34e.rev)
+            * [pack-10d88554950a904bed8a99036d7ec4d1c14acedd.idx](git/objects/pack/pack10d88554950a904bed8a99036d7ec4d1c14acedd.idx)
+            * [pack-10d88554950a904bed8a99036d7ec4d1c14acedd.pack](git/objects/pack/pack10d88554950a904bed8a99036d7ec4d1c14acedd.pack)
+            * [pack-10d88554950a904bed8a99036d7ec4d1c14acedd.rev](git/objects/pack/pack10d88554950a904bed8a99036d7ec4d1c14acedd.rev)
 
 
     * [refs](git/refs/README.md)
@@ -72,6 +72,10 @@
 * [01 Projects](01-projects/README.md)
     * [AuthIdentity](01-projects/authidentity/README.md)
         * [SFACDPI-647 - Data Mismatch](01-projects/authidentity/sfacdpi647-data-mismatch/README.md)
+            * [Investigation](01-projects/authidentity/sfacdpi647-data-mismatch/investigation/README.md)
+                * [Oct 16 2024](01-projects/authidentity/sfacdpi647-data-mismatch/investigation/oct-16-2024.md)
+                * [Oct 17 2024](01-projects/authidentity/sfacdpi647-data-mismatch/investigation/oct-17-2024.md)
+
             * [Brain Dump from Ankush](01-projects/authidentity/sfacdpi647-data-mismatch/brain-dump-from-ankush.md)
             * [Customer Mark's Mismatch](01-projects/authidentity/sfacdpi647-data-mismatch/customer-marks-mismatch.md)
             * [Important Links](01-projects/authidentity/sfacdpi647-data-mismatch/important-links.md)
@@ -100,9 +104,15 @@
         * [Basics of AI - Jeff Su](02-areas/ai/basics-of-ai-jeff-su.md)
 
     * [Backend Development](02-areas/backend-development/README.md)
-        * [Internet](02-areas/backend-development/internet/README.md)
-            * [What is Internet?](02-areas/backend-development/internet/what-is-internet.md)
+        * [Authentication](02-areas/backend-development/authentication/README.md)
+            * [User Authentication](02-areas/backend-development/authentication/user-authentication.md)
 
+        * [Roadmap](02-areas/backend-development/roadmap/README.md)
+            * [Internet](02-areas/backend-development/roadmap/internet/README.md)
+                * [What is Internet?](02-areas/backend-development/roadmap/internet/what-is-internet.md)
+
+
+        * [Resources](02-areas/backend-development/resources.md)
 
     * [Books](02-areas/books/README.md)
         * [Non-Fictional](02-areas/books/nonfictional/README.md)
@@ -127,6 +137,8 @@
 
 
 
+            * [The Beginning of Infinity](02-areas/books/nonfictional/the-beginning-of-infinity.md)
+            * [The Fabric of Reality](02-areas/books/nonfictional/the-fabric-of-reality.md)
             * [What to Expect When You're Expecting](02-areas/books/nonfictional/what-to-expect-when-youre-expecting.md)
             * [You Can Negotiate Anything](02-areas/books/nonfictional/you-can-negotiate-anything.md)
 
@@ -192,6 +204,7 @@
         * [Life](02-areas/personal/life/README.md)
             * [50 advice to follow in 20s](02-areas/personal/life/50-advice-to-follow-in-20s.md)
             * [How to Be the Main character of your life](02-areas/personal/life/how-to-be-the-main-character-of-your-life.md)
+            * [How to Get Ahead of 99% of People (Starting in 2024) - Naval Ravikant](02-areas/personal/life/how-to-get-ahead-of-99-of-people-starting-in-2024-naval-ravikant.md)
 
 
     * [Professional Programming](02-areas/professional-programming/README.md)
@@ -240,14 +253,23 @@
     * [Screenshot 2024-09-18 at 10.45.01 PM.png](attachments/screenshot-20240918-at-10.45.01-pm.png)
     * [Screenshot 2024-09-18 at 11.42.48 PM.png](attachments/screenshot-20240918-at-11.42.48-pm.png)
     * [Screenshot 2024-09-18 at 11.46.13 PM.png](attachments/screenshot-20240918-at-11.46.13-pm.png)
+    * [Screenshot 2024-11-12 at 2.06.12 PM.png](attachments/screenshot-20241112-at-2.06.12-pm.png)
+    * [Screenshot 2024-11-12 at 2.07.12 PM.png](attachments/screenshot-20241112-at-2.07.12-pm.png)
+    * [Screenshot 2024-11-14 at 12.57.17 PM.png](attachments/screenshot-20241114-at-12.57.17-pm.png)
 
 * [Daily Journal](daily-journal/README.md)
     * [02-03-2024](daily-journal/02032024.md)
     * [04-03-2024](daily-journal/04032024.md)
+    * [04-11-2024](daily-journal/04112024.md)
     * [05-10-2024](daily-journal/05102024.md)
+    * [06-11-2024](daily-journal/06112024.md)
+    * [07-11-2024](daily-journal/07112024.md)
     * [08-10-2024](daily-journal/08102024.md)
     * [11-10-2024](daily-journal/11102024.md)
+    * [12-11-2024](daily-journal/12112024.md)
+    * [16-10-2024](daily-journal/16102024.md)
     * [17-03-2024](daily-journal/17032024.md)
+    * [17-10-2024](daily-journal/17102024.md)
     * [18-09-2024](daily-journal/18092024.md)
     * [19-09-2024](daily-journal/19092024.md)
     * [2024-01-04](daily-journal/20240104.md)
@@ -261,11 +283,14 @@
     * [2024-04-18](daily-journal/20240418.md)
     * [2024-09-18](daily-journal/20240918.md)
     * [23-02-2024](daily-journal/23022024.md)
+    * [24-10-2024](daily-journal/24102024.md)
     * [26-02-2024](daily-journal/26022024.md)
     * [28-02-2024](daily-journal/28022024.md)
     * [28-03-2024](daily-journal/28032024.md)
+    * [29-10-2024](daily-journal/29102024.md)
 
 * [Excalidraw](excalidraw/README.md)
     * [Drawing 2024-02-28 22.53.15.excalidraw](excalidraw/drawing-20240228-22.53.15.excalidraw.md)
 
 * [.DS_Store](.dsstore)
+* [Table modification](table-modification.md)

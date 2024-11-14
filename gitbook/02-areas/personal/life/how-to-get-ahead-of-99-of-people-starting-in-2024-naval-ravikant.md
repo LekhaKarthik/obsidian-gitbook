@@ -1,0 +1,54 @@
+[Youtube video](https://www.youtube.com/watch?v=xS92oPqDC68)
+
+Naval's advice:
+- Work on whatever you want to work on
+	- "Searching out your own path is deeply underemphasized" - Balaji Srinivasan
+	- "Imitation is suicide" - Ralph Waldo Emerson
+- Read:
+	- [[The Beginning of Infinity]]
+	- [[The Fabric of Reality]]
+- Take care of your material needs
+	- ![[Screenshot 2024-11-12 at 2.07.12 PM.png]]
+	- Create something that society wants and get money in return as a by-product. this frees up your time which you can use to do what you want and help others
+- Take care of the important things (that money can't buy):
+	- A fit body
+		- Work out hard
+		- Lift weights
+		- Don't eat sugar
+	- A calm mind
+		- Embrace ~~meditation~~ understanding
+			- You don't want to be sitting with eyes closed for 1 hour a day, you want to be meditative **all** the time
+			- Reading other people's philosophy like almanac is like reading answers to a bunch of math problems - it's not helpful - you have to have understanding
+				- "There is a time in every man's education when he arrives at the conviction that (though the wide universe is full of good) no kernel of nourishing corn can come to him but through his toil bestowed on that plot of ground which is given to him to till..."  - Ralph Waldo Emerson
+		- Don't self-obsess too much
+			- Find things outside of yourself
+			- All depressed people are victims of rumination
+			- "You must live for another if you wish to live for yourself" - Seneca
+				- The best way to do this is to live for your child(ren)
+			- The more seriously you take yourself, the less happy you are gonna be
+	- A house full of love
+		- Can be created anytime - just love the people at your home
+		- Don't be needy or have cravings, just create love
+		- "Love is not a relationship; it has nothing to do with anybody else. Love is a state of being, love is giving." - Osho (one of Naval's favourite philosophers)
+	- (Respect) But you can't chase it - It's emergent
+		- "How do you know you're doing the right thing? If people you respect (not the general public) approve of your action" - Nassin Nicholas Taleb
+- Follow your natural curiosity
+	- The only real improvement is self-improvement
+		- Groups are just a vehicle for an individual to improve themselves
+		- Group search for consensus, individuals search for truth
+		- All truth seeking is an individual thing. Curiosity is an individual thing. Curiosity is just the search for truth.
+		- Groups are effective for getting things done. Humans are an organised species. We're not hive minds like bees or ants, but we are meant to be rally together to improve each other. But if you're looking to improve yourself or if you're looking to figure out the truth, you're better off as an individual following your own natural curiosity
+- Commit to learning the correct answer
+	- If you have that, you can fulfil almost any desire
+	- Means to learn are abundance, it's the desire to learn that's scarce
+	- "If you asked an oracle the secret to doing great work and the oracle replied with a single work, my bet would be on 'curiosity'." - Paul Graham
+	- "Learn how to see. Realize that everything connects to everything else." - Leonardo da Vinci
+	- If you go deep into anything, you'll find the same common threads
+	- "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment." - Ralph Waldo Emerson
+- Avoid self-consistency
+	- If you want to be intelligent, you have to be curious. And if you're curious, you care about the truth, you don't care about being wrong![[Screenshot 2024-11-14 at 12.57.17 PM.png]]
+	- You should try to be consistent with the image others have of you
+	- "You do not want to win an argument. You want to win." - Nassim Taleb
+	- The *Consistency Bias* refers to our strong desire to be consistent in our beliefs, attitudes, and behaviours. (On top of that, Society expects you to be self-consistent!)
+	- "A foolish consistency is the hobgoblin of little minds, adored by little statesmen and philosophers and divines. With consistency a great soul has simple nothing to do. He may as well concern himself with his shadow on the wall." - Ralph Waldo Emerson
+	- You can also use it to your advantage (to persuade others, or realize when someone is using it with you)

@@ -5,12 +5,15 @@ Update email scenario:
 1. CCDS will get updated first
 2. for sending otp, the mail ID in auth is used - now emailID is wrong here
 
-Cron job every 2 mins - MigrationController in php  
+Cron job every 2 mins - MigrationController in monolith service  
 [JenkinJobs](https://miscbatch.csnzoo.com/view/Login/) - runs on monolith, checks for change in CCDS and update auth  
 9 shards for customers  
-cronjob runs for all 9 shardsMigrateData (in auth service) - CsvProcessor  
+cronjob runs for all 9 shards
+MigrateData (in auth service) - CsvProcessor  
 AuthIdentityController (in CCDS) - getAuthMigrationCustomers  
-monolith calls the above CCDS function for customers who's updateTime is within the last 2 mins and then calls the auth serviceLogin flow:  
+monolith calls the above CCDS function for customers who's updateTime is within the last 2 mins and then calls the auth service
+
+Login flow:  
 stores/authentication_controller: customer_login() - creates account in both service
 
 [https://console.cloud.google.com/bigquery?project=wf-gcp-us-sf-auth-prod&ws=!1m19!1m4!1m3[…]1swf-gcp-us-sf-auth-prod!2susc_bulk_user_lock_tool&pli=1](https://console.cloud.google.com/bigquery?project=wf-gcp-us-sf-auth-prod&ws=!1m19!1m4!1m3!1swf-gcp-us-sf-auth-prod!2sbquxjob_43bdb3dd_191b3098dde!3sUS!1m4!1m3!1swf-gcp-us-sf-auth-prod!2sbquxjob_c76ab8f_1910db2bd1f!3sus-east4!1m4!4m3!1swf-gcp-us-sf-auth-prod!2susc_bulk_user_lock_tool!3scustomer_lock_data!1m3!3m2!1swf-gcp-us-sf-auth-prod!2susc_bulk_user_lock_tool&pli=1)
