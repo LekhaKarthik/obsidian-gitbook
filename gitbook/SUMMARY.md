@@ -39,9 +39,9 @@
         * [info](git/objects/info/README.md)
 
         * [pack](git/objects/pack/README.md)
-            * [pack-10d88554950a904bed8a99036d7ec4d1c14acedd.idx](git/objects/pack/pack10d88554950a904bed8a99036d7ec4d1c14acedd.idx)
-            * [pack-10d88554950a904bed8a99036d7ec4d1c14acedd.pack](git/objects/pack/pack10d88554950a904bed8a99036d7ec4d1c14acedd.pack)
-            * [pack-10d88554950a904bed8a99036d7ec4d1c14acedd.rev](git/objects/pack/pack10d88554950a904bed8a99036d7ec4d1c14acedd.rev)
+            * [pack-8bb4f5f2aa38b32d3bb3d485b6743dd2f227d307.idx](git/objects/pack/pack8bb4f5f2aa38b32d3bb3d485b6743dd2f227d307.idx)
+            * [pack-8bb4f5f2aa38b32d3bb3d485b6743dd2f227d307.pack](git/objects/pack/pack8bb4f5f2aa38b32d3bb3d485b6743dd2f227d307.pack)
+            * [pack-8bb4f5f2aa38b32d3bb3d485b6743dd2f227d307.rev](git/objects/pack/pack8bb4f5f2aa38b32d3bb3d485b6743dd2f227d307.rev)
 
 
     * [refs](git/refs/README.md)
@@ -87,6 +87,15 @@
             * [Bulk Lock Tool](01-projects/bulk-lock-service/sfacdpi727-infohub-documentation/bulk-lock-tool.md)
 
         * [Bulk Lock Service](01-projects/bulk-lock-service/bulk-lock-service.md)
+
+    * [Monolith](01-projects/monolith/README.md)
+        * [SFACDPI-977 - OTP Race Condition](01-projects/monolith/sfacdpi977-otp-race-condition/README.md)
+            * [Initial Deep Dive](01-projects/monolith/sfacdpi977-otp-race-condition/initial-deep-dive.md)
+            * [Network calls for Challenge and Grant](01-projects/monolith/sfacdpi977-otp-race-condition/network-calls-for-challenge-and-grant.md)
+            * [Parallel Call Trial](01-projects/monolith/sfacdpi977-otp-race-condition/parallel-call-trial.md)
+            * [Postman Trial](01-projects/monolith/sfacdpi977-otp-race-condition/postman-trial.md)
+            * [Turbo Intruder Attack](01-projects/monolith/sfacdpi977-otp-race-condition/turbo-intruder-attack.md)
+
 
     * [Onboarding](01-projects/onboarding/README.md)
         * [Storefront 101](01-projects/onboarding/storefront-101/README.md)
@@ -265,8 +274,10 @@
     * [06-11-2024](daily-journal/06112024.md)
     * [07-11-2024](daily-journal/07112024.md)
     * [08-10-2024](daily-journal/08102024.md)
+    * [08-12-2024](daily-journal/08122024.md)
     * [11-10-2024](daily-journal/11102024.md)
     * [12-11-2024](daily-journal/12112024.md)
+    * [15-12-2024](daily-journal/15122024.md)
     * [16-10-2024](daily-journal/16102024.md)
     * [17-03-2024](daily-journal/17032024.md)
     * [17-10-2024](daily-journal/17102024.md)
